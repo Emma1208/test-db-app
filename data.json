@@ -1,8 +1,21 @@
 {
-  "notes": [
-    "Première note de test",
-    "Note ajoutee via test API",
-    "Merci",
-    "Salut ça va ?"
-  ]
+  "j": [
+    {
+      "d": "2026-11-26",
+      "p": "R-1",
+      "c": "101",
+      "t": "Capital social",
+      "l": "",
+      "db": 0,
+      "cr": 10000
+    }
+  ],
+  "im": [],
+  "c": {},
+  "st": [],
+  "co": "",
+  "p": {
+    "dev": "USD"
+  },
+  "ts": 1795668677905
 }
