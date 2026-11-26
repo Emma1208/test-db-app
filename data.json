@@ -1,3 +1,6 @@
 {
-  "notes": ["Première note de test"]
+  "notes": [
+    "Première note de test",
+    "Note ajoutee via test API"
+  ]
 }
