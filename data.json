@@ -1,6 +1,7 @@
 {
   "notes": [
     "Première note de test",
-    "Test connexion suite"
+    "Test connexion suite",
+    "Note ajoutée via test API"
   ]
 }
